@@ -24,12 +24,12 @@ In this module, you will compile all of your activities into one place and deliv
 
 ```bash
 uv init
-uv add ipykernel pandas numpy requests beautifulsoup4 matplotlib seaborn folium scikit-learn
+uv add ipykernel pandas numpy requests beautifulsoup4 matplotlib seaborn folium scikit-learn dash plotly
 
 # or,
 
 python3 -m venv .venv
-python3 -m pip install ipykernel pandas numpy requests beautifulsoup4 matplotlib seaborn folium scikit-learn
+python3 -m pip install ipykernel pandas numpy requests beautifulsoup4 matplotlib seaborn folium scikit-learn dash plotly
 ```
 
 ---
