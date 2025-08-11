@@ -43,7 +43,7 @@ python3 -m pip install ipykernel pandas numpy requests beautifulsoup4 matplotlib
 5. [EDA: SQL](./05-eda-sql.ipynb)
 6. [EDA: Falcon 9 First Stage Landing Prediction](./06-eda-predictions.ipynb)
 7. [EDA: Folium](./07-eda-folium.ipynb)
-8. [Predictions](./08-predictions.ipynb)
+8. [ML: Predictive analysis](./08-predictions.ipynb)
 9. [Dash: analysis](./09-dash-analysis.ipynb)
    1. [Dash server code](./09-dashboard.py)
 
