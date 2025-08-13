@@ -55,6 +55,8 @@ python3 -m pip install ipykernel pandas numpy requests beautifulsoup4 matplotlib
 
 ## Conclusions
 
+> [Complete PDF document here](./ds-capstone-template-coursera.pdf)
+
 - Number of successful launches increases has increased over the last years, significantly from 2015. The success trend seems to stabilize at a 60 - 90% ratio from 2016 onwards.
 - The number of launches has also increased, so the successes have gone up. VAFB show the best ratio of succeeded launches. KSC doesn’t show information below almost 40 launches.
 - Orbits such as ES-L1, GEO, HEO and SSO show a 100% success launch rate. On the contrary, GTO reaches only a ~50% success rate.
