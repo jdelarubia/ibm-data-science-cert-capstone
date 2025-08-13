@@ -10,7 +10,7 @@ In this module, you will compile all of your activities into one place and deliv
   - [TOC](#toc)
   - [Learning Objectives](#learning-objectives)
   - [Project init](#project-init)
-  - [Project Support Notebooks](#project-support-notebooks)
+  - [Project Support Notebooks \& code](#project-support-notebooks--code)
   - [Conclusions](#conclusions)
 
 ---
@@ -37,7 +37,7 @@ python3 -m pip install ipykernel pandas numpy requests beautifulsoup4 matplotlib
 
 ---
 
-## Project Support Notebooks
+## Project Support Notebooks & code
 
 1. [Data collection](./01-data-collection.ipynb)
 2. [Data Wrangling](./02-data-wrangling.ipynb)
